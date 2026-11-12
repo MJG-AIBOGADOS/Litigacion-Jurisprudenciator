@@ -45,6 +45,11 @@
       "name": "contratos-laborales-asesoria-empresarial",
       "source": "./plugins/contratos-laborales-asesoria-empresarial",
       "category": "legal"
+    },
+    {
+      "name": "normas-consolidadas",
+      "source": "./plugins/normas-consolidadas",
+      "category": "legal"
     }
   ]
 }
