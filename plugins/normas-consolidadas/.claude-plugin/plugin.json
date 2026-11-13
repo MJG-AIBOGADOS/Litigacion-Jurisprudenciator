@@ -1,8 +1,8 @@
 {
   "name": "normas-consolidadas",
   "displayName": "Normas consolidadas MJG",
-  "version": "1.1.0",
-  "description": "Textos consolidados del BOE en markdown, con un epígrafe por artículo, para consultar la legislación vigente cuando Jurisprudenciator no esté disponible o se hayan agotado los créditos. Diecisiete normas: Constitución, Código Civil, Código Penal, Ley Orgánica del Poder Judicial, Enjuiciamiento Civil y Criminal, Contencioso-administrativa, Social, Jurisdicción Voluntaria, Estatuto de los Trabajadores, Propiedad Horizontal, Ley y Reglamento Hipotecarios, violencia de género y menores.",
+  "version": "1.2.0",
+  "description": "Veintiséis textos consolidados del BOE en markdown, con un epígrafe por artículo, para consultar la legislación vigente cuando Jurisprudenciator no esté disponible o se hayan agotado los créditos. Constitución, Códigos Civil y Penal, leyes procesales de los cuatro órdenes, Poder Judicial, arrendamientos, propiedad horizontal, hipotecaria, Seguridad Social, tributaria y administrativa. El índice da la fecha de cada consolidado.",
   "author": {
     "name": "MJG Abogados"
   },
