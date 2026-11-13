@@ -1,8 +1,8 @@
 {
   "name": "normas-consolidadas",
   "displayName": "Normas consolidadas MJG",
-  "version": "1.0.0",
-  "description": "Textos consolidados del BOE en markdown, con un epígrafe por artículo, para consultar la legislación vigente cuando el conector Jurisprudenciator no esté disponible o se hayan agotado los créditos. Incluye la Ley de Enjuiciamiento Civil, la Ley de Enjuiciamiento Criminal, la Ley de la Jurisdicción Contencioso-administrativa, la Ley reguladora de la Jurisdicción Social, el Estatuto de los Trabajadores, la Ley Orgánica 1/2025 y la Ley Orgánica 5/2000 de menores con su Reglamento.",
+  "version": "1.1.0",
+  "description": "Textos consolidados del BOE en markdown, con un epígrafe por artículo, para consultar la legislación vigente cuando Jurisprudenciator no esté disponible o se hayan agotado los créditos. Diecisiete normas: Constitución, Código Civil, Código Penal, Ley Orgánica del Poder Judicial, Enjuiciamiento Civil y Criminal, Contencioso-administrativa, Social, Jurisdicción Voluntaria, Estatuto de los Trabajadores, Propiedad Horizontal, Ley y Reglamento Hipotecarios, violencia de género y menores.",
   "author": {
     "name": "MJG Abogados"
   },
