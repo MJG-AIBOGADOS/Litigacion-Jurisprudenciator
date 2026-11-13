@@ -1,6 +1,6 @@
 ---
 name: normas-consolidadas
-description: Consulta el texto vigente de un artículo en los consolidados del BOE guardados en este plugin (Ley de Enjuiciamiento Civil, Ley de Enjuiciamiento Criminal, Ley de la Jurisdicción Contencioso-administrativa, Ley reguladora de la Jurisdicción Social, Estatuto de los Trabajadores, Ley Orgánica 1/2025, Ley Orgánica 5/2000 de menores y su Reglamento). Úsala cuando Jurisprudenciator no esté disponible, se hayan agotado los créditos o falle, y haga falta el texto de un artículo para redactar o para comprobar una cita. También cuando el abogado diga "sin créditos", "mira en las normas guardadas" o "consulta el consolidado".
+description: Consulta el texto vigente de un artículo en los consolidados del BOE guardados en este plugin (Constitución, Código Civil, Código Penal, Ley Orgánica del Poder Judicial, Ley de Enjuiciamiento Civil, Ley de Enjuiciamiento Criminal, Ley de la Jurisdicción Contencioso-administrativa, Ley reguladora de la Jurisdicción Social, Ley de la Jurisdicción Voluntaria, Estatuto de los Trabajadores, Ley de Propiedad Horizontal, Ley y Reglamento Hipotecarios, Ley Orgánica 1/2004 de violencia de género, Ley Orgánica 1/2025, y Ley Orgánica 5/2000 de menores con su Reglamento). Úsala cuando Jurisprudenciator no esté disponible, se hayan agotado los créditos o falle, y haga falta el texto de un artículo para redactar o para comprobar una cita. También cuando el abogado diga "sin créditos", "mira en las normas guardadas" o "consulta el consolidado".
 ---
 
 # Normas consolidadas guardadas
@@ -19,7 +19,7 @@ Nunca de memoria.
 
 Los archivos están en `references/normas/` de este plugin. `00-INDICE-NORMAS.md` lista cada ley, su identificador del BOE y la fecha del consolidado.
 
-Cada ley tiene un epígrafe `### Artículo N.` por artículo. Para leer un artículo concreto no hay que abrir la ley entera: se busca su epígrafe y se extrae hasta el siguiente. Por ejemplo, el artículo 264 de la Ley de Enjuiciamiento Civil está en `LEC.md` bajo `### Artículo 264.`.
+Cada ley tiene un epígrafe `### Artículo N.` por artículo. Para leer un artículo concreto no hay que abrir la ley entera: se busca su epígrafe y se extrae hasta el siguiente. Por ejemplo, el artículo 264 de la Ley de Enjuiciamiento Civil está en `LEC.md` bajo `### Artículo 264.` La Ley de Propiedad Horizontal numera con palabras, de modo que allí el epígrafe es del tipo `### Artículo noveno.`.
 
 ## Reglas al citar
 
