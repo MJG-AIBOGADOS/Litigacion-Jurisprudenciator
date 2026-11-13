@@ -2,7 +2,7 @@
   "name": "normas-consolidadas",
   "displayName": "Normas consolidadas MJG",
   "version": "1.0.0",
-  "description": "Textos consolidados del BOE de las leyes procesales y sustantivas que usa el despacho, en markdown y con un epígrafe por artículo: Ley de Enjuiciamiento Civil, Ley de Enjuiciamiento Criminal, Ley de la Jurisdicción Contencioso-administrativa, Ley reguladora de la Jurisdicción Social, Estatuto de los Trabajadores, Ley Orgánica 1/2025 de eficiencia del Servicio Público de Justicia, Ley Orgánica 5/2000 de responsabilidad penal de los menores y su Reglamento. Sirven de consulta de respaldo cuando el conector Jurisprudenciator no está disponible o se han agotado los créditos.",
+  "description": "Textos consolidados del BOE en markdown, con un epígrafe por artículo, para consultar la legislación vigente cuando el conector Jurisprudenciator no esté disponible o se hayan agotado los créditos. Incluye la Ley de Enjuiciamiento Civil, la Ley de Enjuiciamiento Criminal, la Ley de la Jurisdicción Contencioso-administrativa, la Ley reguladora de la Jurisdicción Social, el Estatuto de los Trabajadores, la Ley Orgánica 1/2025 y la Ley Orgánica 5/2000 de menores con su Reglamento.",
   "author": {
     "name": "MJG Abogados"
   },
