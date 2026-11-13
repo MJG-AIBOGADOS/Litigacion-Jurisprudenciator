@@ -6,7 +6,7 @@ uso: lista de las leyes guardadas para consulta cuando Jurisprudenciator no est�
 
 # Normas consolidadas guardadas
 
-Respaldo para cuando Jurisprudenciator no esté disponible o se hayan agotado los créditos. Cada archivo es el texto consolidado del BOE convertido a markdown, con un epígrafe `### Artículo N.` por artículo, de modo que se puede extraer un artículo concreto sin leer la ley entera. La Ley de Propiedad Horizontal numera sus artículos con palabras, así que allí los epígrafes son del tipo `### Artículo noveno.`
+26 normas. Respaldo para cuando Jurisprudenciator no esté disponible o se hayan agotado los créditos. Cada archivo es el texto consolidado del BOE convertido a markdown, con un epígrafe `### Artículo N.` por artículo, de modo que se puede extraer un artículo concreto sin leer la ley entera. La Ley de Propiedad Horizontal numera sus artículos con palabras, así que allí los epígrafes son del tipo `### Artículo noveno.`
 
 ## Reglas de uso
 
@@ -24,8 +24,16 @@ Estos archivos son legislación, no jurisprudencia. Para sentencias sigue siendo
 | `CE-constitucion.md` | Constitución Española | BOE-A-1978-31229 | 20 de mayo de 2026 |
 | `CP-codigo-penal.md` | Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal | BOE-A-1995-25444 | 09 de abril de 2026 |
 | `ET.md` | Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores | BOE-A-2015-11430 | 21 de octubre de 2026 |
+| `L20-2011-registro-civil.md` | Ley 20/2011, de 21 de julio, del Registro Civil | BOE-A-2011-12628 | 03 de enero de 2025 |
+| `L39-2015-procedimiento-administrativo.md` | Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas | BOE-A-2015-10565 | 06 de noviembre de 2024 |
+| `L40-2015-regimen-juridico-sector-publico.md` | Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público | BOE-A-2015-10566 | 02 de agosto de 2024 |
+| `LAR-arrendamientos-rusticos.md` | Ley 49/2003, de 26 de noviembre, de Arrendamientos Rústicos | BOE-A-2003-21616 | 31 de marzo de 2015 |
+| `LAU-arrendamientos-urbanos.md` | Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos | BOE-A-1994-26003 | 13 de noviembre de 2026 |
+| `LCSP-contratos-sector-publico.md` | Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlament | BOE-A-2017-12902 | 09 de abril de 2026 |
 | `LEC.md` | Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil | BOE-A-2000-323 | 07 de octubre de 2026 |
 | `LECrim.md` | Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal | BOE-A-1882-6036 | 09 de abril de 2026 |
+| `LGSS-seguridad-social.md` | Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social | BOE-A-2015-11724 | 11 de noviembre de 2026 |
+| `LGT-ley-general-tributaria.md` | Ley 58/2003, de 17 de diciembre, General Tributaria | BOE-A-2003-23186 | 21 de diciembre de 2024 |
 | `LH-ley-hipotecaria.md` | Decreto de 8 de febrero de 1946 por el que se aprueba la nueva redacción oficial de la Ley Hipotecaria | BOE-A-1946-2453 | 03 de enero de 2025 |
 | `LJCA.md` | Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | BOE-A-1998-16718 | 03 de enero de 2025 |
 | `LJV-jurisdiccion-voluntaria.md` | Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria | BOE-A-2015-7391 | 03 de enero de 2025 |
@@ -37,7 +45,4 @@ Estos archivos son legislación, no jurisprudencia. Para sentencias sigue siendo
 | `LRJS.md` | Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social | BOE-A-2011-15936 | 30 de abril de 2025 |
 | `RD-1774-2004-reglamento-menores.md` | Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilida | BOE-A-2004-15601 | 17 de julio de 2021 |
 | `RH-reglamento-hipotecario.md` | Decreto de 14 de febrero de 1947 por el que se aprueba el Reglamento Hipotecario | BOE-A-1947-3843 | 26 de noviembre de 2020 |
-
-## Pendientes de incorporar
-
-Ley General de la Seguridad Social, Ley de Arrendamientos Urbanos, Ley 39/2015 y Ley 40/2015, Ley General Tributaria y Ley del Registro Civil.
+| `TRLGDCU-consumidores-usuarios.md` | Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y  | BOE-A-2007-20555 | 04 de noviembre de 2026 |
